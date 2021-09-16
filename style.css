@@ -35,7 +35,12 @@ li {
 #searchbar {
     float: right;
     padding: 6px;
-    border: none;
+    background: #f5efeb;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    display: block;
+    font-family:courier;
+    color: #ded3cc;
 }
 
 /* dropdown */
