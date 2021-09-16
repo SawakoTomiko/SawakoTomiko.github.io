@@ -52,10 +52,8 @@ li {
 /* dropdown */
 
 .dropdown {
-  /* overflow: hidden;            <--------- Remove trhis     */
   white-space: nowrap;
   display: inline-block;
-  background: #f2e5da;
 }
 
 .dropdown .dropbtn {
@@ -67,7 +65,6 @@ li {
   color: inherit;
   margin: 0;
   display: inline-block;
-  background: #f2e5da;
 }
 
 .dropdown-content {
