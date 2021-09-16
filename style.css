@@ -1,12 +1,10 @@
+/*body*/
 body {
     background: #f2e5da;
 }
-.nav {
-    color: brown;
-    font-family: courier;
-    font-size: 15px;
-    overflow: hidden;
-}
+
+
+/*texts*/
 p {
     color: #5e2800;
     font-family: courier;
@@ -17,6 +15,8 @@ li {
     font-family: courier;
     font-size: 13px;
 }
+
+/*search bar*/
 .topnav input[type="text"] {
     float: right;
     padding: 6px;
@@ -25,6 +25,15 @@ li {
     border: none;
     font-size: 10px;
 }
+
+/**NAVIGATION**/
+.nav {
+    color: brown;
+    font-family: courier;
+    font-size: 15px;
+    overflow: hidden;
+}
+/*drop down*/
 
 .dropdown {
   float: left;
