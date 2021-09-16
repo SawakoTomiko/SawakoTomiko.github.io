@@ -43,6 +43,7 @@ li {
 
 .dropdown {
   overflow: hidden;
+  white-space: nowrap;
 }
 
 .dropdown .dropbtn {
