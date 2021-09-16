@@ -28,7 +28,6 @@ li {
     font-size: 15px;
     overflow: hidden;
     white-space: nowrap;
-    display: inline-block;    
 }
 
 /* search bar */
@@ -37,7 +36,6 @@ li {
     float: right;
     padding: 6px;
     border: none;
-    display: block;
 }
 
 /* dropdown */
