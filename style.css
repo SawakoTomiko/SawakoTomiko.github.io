@@ -37,6 +37,7 @@ li {
     float: right;
     padding: 6px;
     border: none;
+    display: block;
 }
 
 /* dropdown */
