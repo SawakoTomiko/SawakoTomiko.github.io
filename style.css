@@ -59,6 +59,7 @@ li {
   margin: 0;
   display: inline-block;
   background: brown;
+  color: #f2e5da;
 }
 
 .dropdown-content {
