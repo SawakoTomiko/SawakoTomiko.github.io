@@ -44,7 +44,6 @@ li {
 /*drop down*/
 
 .dropdown {
-  overflow: hidden;
   white-space: nowrap;
   display: inline-block;
 }
