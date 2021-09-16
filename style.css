@@ -33,13 +33,10 @@ li {
 
 /* search bar */
 
-.topnav input[type="text"] {
+#searchbar {
     float: right;
     padding: 6px;
-    margin-top: 8px;
-    margin-right: 16px;
     border: none;
-    font-size: 10px;
 }
 
 /* dropdown */
