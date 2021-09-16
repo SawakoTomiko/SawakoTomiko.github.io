@@ -5,11 +5,16 @@ body {
 
 
 /*texts*/
-p {
+p, a {
     color: #5e2800;
     font-family: courier;
     font-size: 15px;
 }
+
+a {
+    text-decoration: none;
+}
+
 li {
     color: #5e2800;
     font-family: courier;
