@@ -1,10 +1,5 @@
-/*body*/
-body {
-    background: #f2e5da;
-}
+/* formatting of links */
 
-
-/*texts*/
 p, a {
     color: #5e2800;
     font-family: courier;
@@ -22,7 +17,17 @@ li {
     font-size: 13px;
 }
 
-/*search bar*/
+.nav {
+    color: brown;
+    font-family: courier;
+    font-size: 15px;
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-block;    
+}
+
+/* search bar */
+
 .topnav input[type="text"] {
     float: right;
     padding: 6px;
@@ -32,18 +37,10 @@ li {
     font-size: 10px;
 }
 
-/**NAVIGATION**/
-.nav {
-    color: brown;
-    font-family: courier;
-    font-size: 15px;
-    overflow: hidden;
-    white-space: nowrap;
-    display: inline-block;    
-}
-/*drop down*/
+/* dropdown */
 
 .dropdown {
+  /* overflow: hidden;            <--------- Remove trhis     */
   white-space: nowrap;
   display: inline-block;
 }
