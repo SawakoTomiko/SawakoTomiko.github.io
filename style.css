@@ -33,6 +33,13 @@ li {
 
 /* search bar */
 
+.topnav {
+    position: fixed;
+    bottom: -10px;
+    right: 0px;
+    z-index: 2000;
+}
+
 .topnav input[type="text"] {
     float: right;
     padding: 6px;
