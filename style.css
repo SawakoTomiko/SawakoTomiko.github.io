@@ -45,6 +45,7 @@ li {
 .dropdown {
   overflow: hidden;
   white-space: nowrap;
+  display: inline-block;
 }
 
 .dropdown .dropbtn {
