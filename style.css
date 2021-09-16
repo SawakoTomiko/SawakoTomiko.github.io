@@ -38,6 +38,7 @@ li {
     font-family: courier;
     font-size: 15px;
     overflow: hidden;
+    white-space: nowrap;
 }
 /*drop down*/
 
