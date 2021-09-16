@@ -21,8 +21,10 @@ li {
     padding: 6px;
     margin-top: 8px;
     margin-right: 16px;
-    border: none;
+    border: 1x solid transparent;
+    border-radius: 10px;
     font-size: 10px;
+    background: #f0e9e6;
 }
 
 /**NAVIGATION**/
