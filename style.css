@@ -23,7 +23,6 @@ a:hover {
     color: brown;
     font-weight: bold;
     font-family: courier;
-    font-size: 23px;
     overflow: hidden;
     white-space: nowrap;
 }
@@ -74,7 +73,6 @@ li {
 }
 
 .dropdown .dropbtn:hover {
-    font-size: 23px;
     font-weight: bold;
 }
 .dropdown-content {
