@@ -38,7 +38,6 @@ li {
     font-family: courier;
     font-size: 20px;
     overflow: hidden;
-    white-space: nowrap;
 }
 
 /* search bar */
