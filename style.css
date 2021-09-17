@@ -85,6 +85,8 @@ li {
   z-index: 1;
   background: #e8d6c8;  
   font-size:15px;
+  border: 1px solid transparent;
+  border-radius: 10px;
 }
 
 .dropdown-content a {
@@ -93,8 +95,6 @@ li {
   text-decoration: none;
   display: block;
   text-align: left;
-  border: 1px solid transparent;
-  border-radius: 10px;
 }
 
 .dropdown-content a:hover {
