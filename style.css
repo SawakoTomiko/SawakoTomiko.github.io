@@ -39,6 +39,7 @@ li {
     font-size: 20px;
     overflow: hidden;
     background:#f2e5da;
+    display: inline-block;
 }
 
 /* search bar */
