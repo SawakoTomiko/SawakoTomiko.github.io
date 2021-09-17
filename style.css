@@ -16,14 +16,14 @@ p, a {
 a {
     color: brown;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 a:hover {
     color: brown;
     font-weight: bold;
     font-family: courier;
-    font-size: 20px;
+    font-size: 23px;
     overflow: hidden;
     white-space: nowrap;
 }
@@ -73,6 +73,10 @@ li {
   color: brown;
 }
 
+.dropdown .dropbtn:hover {
+    font-size: 23px;
+    font-weight: bold;
+}
 .dropdown-content {
   display: none;
   position: absolute;
