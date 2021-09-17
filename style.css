@@ -58,6 +58,7 @@ li {
 /* dropdown */
 .dropdown {
     white-space: nowrap;
+    display: inline-block;    
 }
 
 .dropdown .dropbtn {
