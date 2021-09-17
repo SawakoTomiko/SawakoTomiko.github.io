@@ -56,11 +56,6 @@ li {
 
 /* dropdown */
 
-.dropdown {
-  white-space: nowrap;
-  display: inline-block;
-}
-
 .dropdown .dropbtn {
   font-family: courier;    
   font-size: 20px;
