@@ -38,6 +38,7 @@ li {
     font-family: courier;
     font-size: 20px;
     overflow: hidden;
+    background:#f2e5da;
 }
 
 /* search bar */
@@ -54,6 +55,9 @@ li {
 }
 
 /* dropdown */
+.dropdown {
+    white-space: nowrap;
+}
 
 .dropdown .dropbtn {
   font-family: courier;    
@@ -61,7 +65,6 @@ li {
   border: none;
   outline: none;
   margin: 0;
-
   color: brown;
 }
 
