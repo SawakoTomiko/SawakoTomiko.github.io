@@ -6,9 +6,12 @@ body {
 /* formatting of links */
 
 p, a {
-    color: #5e2800;
+    color: #e8d3c5;
     font-family: courier;
     font-size: 15px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    padding:10px;
 }
 
 a {
