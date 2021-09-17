@@ -66,6 +66,8 @@ li {
   outline: none;
   margin: 0;
   color: brown;
+  padding: 10px;
+  background: #f2e5da;    
 }
 
 .dropdown .dropbtn:hover {
