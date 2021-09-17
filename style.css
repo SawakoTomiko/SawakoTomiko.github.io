@@ -58,7 +58,8 @@ li {
 /* dropdown */
 .dropdown {
     white-space: nowrap;
-    display: inline-block;    
+    display: inline-block; 
+    width:100%;
 }
 
 .dropdown .dropbtn {
@@ -71,7 +72,6 @@ li {
   padding: 10px;
   background: #f2e5da;    
   display: inline-block;
-  width:100%;
 }
 
 .dropdown .dropbtn:hover {
