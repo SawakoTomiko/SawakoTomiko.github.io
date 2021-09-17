@@ -70,6 +70,7 @@ li {
 
 .dropdown .dropbtn:hover {
     font-weight: bold;
+    white-space: nowrap;
 }
 .dropdown-content {
   display: none;
