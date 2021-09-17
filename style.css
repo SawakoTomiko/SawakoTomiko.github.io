@@ -23,7 +23,7 @@ a:hover {
     color: brown;
     font-weight: bold;
     font-family: courier;
-    font-size: 20px;
+    font-size: 30px;
     overflow: hidden;
     white-space: nowrap;
 }
@@ -37,7 +37,7 @@ li {
 .nav {
     color: brown;
     font-family: courier;
-    font-size: 20px;
+    font-size: 30px;
     overflow: hidden;
     white-space: nowrap;
 }
@@ -64,7 +64,7 @@ li {
 
 .dropdown .dropbtn {
   font-family: courier;    
-  font-size: 20px;
+  font-size: 30px;
   border: none;
   outline: none;
   margin: 0;
