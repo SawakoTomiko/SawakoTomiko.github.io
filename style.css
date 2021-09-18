@@ -86,8 +86,7 @@ li {
   z-index: 1;
   background: #e8d6c8;  
   font-size:15px;
-  border: 1px solid transparent;
-  border-radius: 10px;
+  border: none;
 }
 
 .dropdown-content a {
