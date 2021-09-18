@@ -59,7 +59,7 @@ li {
 .dropdown {
     white-space: nowrap;
     display: inline-block; 
-    margin-right: 20%;
+    margin-right: 10%;
 }
 
 .dropdown .dropbtn {
