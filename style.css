@@ -106,8 +106,10 @@ li {
   display: block;
 }
 
+/* boxes */
+
 .upperbox {
-background:linear-gradient(to right, #d9b498, #b3896f, #b3896f, #b3896f, #b3896f);
+background: #b3896f;
 border-radius: 3px 3px 0 0;
 width:40%;
 height:3%;
