@@ -109,13 +109,14 @@ li {
 /* boxes */
 
 .upperbox {
-background: #b3896f;
+background:linear-gradient(to right, #d9b498, #b3896f, #b3896f, #b3896f, #b3896f);
 border-radius: 3px 3px 0 0;
 width:40%;
 height:3%;
 padding:2% calc(2% + 5px);
 margin-bottom: -4.5px;
 }
+
 .lowerbox {
 width:40%;
 padding: 2%;
@@ -123,4 +124,15 @@ margin-bottom:1%;
 border: 5px solid transparent;
 border-image-source: linear-gradient(to top right, #f0c7a8, transparent, #b3896f);
 border-image-slice: 1;
+position: relative;
+}
+
+.description {
+width:97%;
+height:20%;
+padding: 2%;
+background: rgb(217, 172, 152, 0.5);
+position: absolute;
+bottom:-0.5%;
+left: -0.5%;
 }
